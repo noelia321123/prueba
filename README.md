@@ -1,3 +1,3 @@
 # prueba
-NOMBRE: Norka Noelia Gutierrez Guzman
-MATERIA: INF-122
+Nombre: Norka Noelia Gutierrez Guzman
+Materia: INF-122
